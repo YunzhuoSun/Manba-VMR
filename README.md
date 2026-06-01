@@ -1,4 +1,4 @@
-# Mamba-VMR: Multimodal Query Augmentation via Generated Videos for Precise Temporal Grounding
+# GenSpan: Generation-Calibrated Motion Span Priors for Multi-Verb Video Corpus Moment Retrieval
 
 Codes will be released soon.
 
